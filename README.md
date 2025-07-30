@@ -69,6 +69,6 @@ Run all cells to train and test the model.
 
 📌 Author
 
-Thejas K U
+ANKITH T S
 
 Feel free to fork, use, and contribute! 🚀
